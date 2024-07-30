@@ -1,2 +1,1 @@
-# FitPhysique_01-04-24
-Learn how to create a stunning gym website from scratch using HTML, CSS, and JavaScript!
+FitLife is a comprehensive fitness website designed to help users achieve their health and fitness goals. The platform offers personalized workout plans, nutritional guidance, progress tracking, and a supportive community to encourage users on their fitness journey.
